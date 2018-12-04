@@ -1,2 +1,2 @@
 # MulticastPcmPlayClient
-Multicast PCM audio data on Android
+Multicast PCM audio data client on Android
